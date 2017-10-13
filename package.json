@@ -1,0 +1,14 @@
+{
+  "name": "data-parser",
+  "version": "0.0.1",
+  "description": "parse csv to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Pouyt",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^1.11.0"
+  }
+}
